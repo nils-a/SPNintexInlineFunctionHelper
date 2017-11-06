@@ -28,7 +28,7 @@ To add a german translation:
 [NintexInlineFunction("fn-doSomeCoolStuff",
     Description = "Does real cool stuff. Really!"),
 NintexInlineFunctionLocalization(1031,
-    Description = "Wirklivh tolles zeug. Verprochen!")]
+    Description = "Wirklich tolles Zeug. Verprochen!")]
 public static string DoSomething()
 {
     return string.Empty;
